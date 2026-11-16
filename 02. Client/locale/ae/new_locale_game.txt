@@ -1,0 +1,9 @@
+DROP_INFO_COUNT	%d x
+DROP_INFO_SHOP_SOLD	สใ ศํฺ วแฺไีั %s Ýํ ใสฬั฿.
+DROP_INFO_TAB_HINT	- ฬแำษ วแÝวัใ
+DROP_INFO_YANG	อีแส ฺแ์ %s Yang.
+DROP_INFO_YANG_NAME	Yang
+PET_INCUBATOR_CONFIRM	สร฿ํฯ
+PET_INCUBATOR_ENTER_NAME	รฯฮแ วแวำใ..
+PET_INCUBATOR_HEADER	ำใ๖๘ อํๆวไ฿ วแรแํÝ
+PET_INCUBATOR_TITLE	วแสุๆั

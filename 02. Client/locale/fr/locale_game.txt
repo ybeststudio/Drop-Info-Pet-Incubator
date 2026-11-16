@@ -1,0 +1,2 @@
+TOOLTIP_SKILLBOOK_NAME	Manuel de compétences
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Livre de l'oubli

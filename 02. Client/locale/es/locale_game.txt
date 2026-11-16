@@ -1,0 +1,2 @@
+TOOLTIP_SKILLBOOK_NAME	Manual de Habilidad
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Libro del olvido

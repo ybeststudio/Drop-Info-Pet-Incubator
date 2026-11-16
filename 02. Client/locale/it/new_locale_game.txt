@@ -1,0 +1,9 @@
+DROP_INFO_COUNT	%dx
+DROP_INFO_SHOP_SOLD	%s è stato venduto nel tuo negozio.
+DROP_INFO_TAB_HINT	- Sessione di farm
+DROP_INFO_YANG	Hai ricevuto %s Yang.
+DROP_INFO_YANG_NAME	Yang
+PET_INCUBATOR_CONFIRM	Conferma
+PET_INCUBATOR_ENTER_NAME	Inserisci il nome..
+PET_INCUBATOR_HEADER	DAI UN NOME AL TUO PET
+PET_INCUBATOR_TITLE	Evoluzione

@@ -1,0 +1,2 @@
+TOOLTIP_SKILLBOOK_NAME	Livro de Habilidades
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Livro do Esquecimento

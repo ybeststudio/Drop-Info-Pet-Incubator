@@ -1,0 +1,2 @@
+TOOLTIP_SKILLBOOK_NAME	Libro dell'abilità
+TOOLTIP_SKILL_FORGET_BOOK_NAME	Libro dell'amnesia
